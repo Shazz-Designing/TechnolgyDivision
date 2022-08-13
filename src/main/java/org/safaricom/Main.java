@@ -1,6 +1,5 @@
 package org.safaricom;
 
-import static java.lang.System.*;
 import java.util.Scanner;
 
 public class Main {
