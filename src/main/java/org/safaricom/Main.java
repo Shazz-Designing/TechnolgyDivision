@@ -21,6 +21,7 @@ public class Main {
 
         Employee EK7 = new Employee("Anne Njuguna", "Human Resource Department", "Payroll Officer", "Compensation and Benefits. ");
 
+        Employee EK8 = new Employee("Brian Mwambi", "Human Resource Department", "Talent Manager", "Talent Management.");
 
         EK1.display();
         EK2.display();
