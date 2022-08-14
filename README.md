@@ -16,7 +16,7 @@ This is a simple application that keeps track of the different departments withi
 *To run the program in the terminal you can use 'gradle run' command
 
 ## Known Bugs
-No known bugs
+The Employee details collected from input class are still not added to the main Record and no validation is done on the data collected. This is still work in progress
 
 ## Technologies Used
 
